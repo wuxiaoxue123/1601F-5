@@ -1,0 +1,44 @@
+let data = [
+  {
+    "id":1,
+    "title":"京东超市",
+    "image":"../static/img/img1.png",
+  },{
+    "id":2,
+    "title":"全球购",
+    "image":"../static/img/img2.png",
+  },{
+    "id":3,
+    "title":"京东服饰",
+    "image":"../static/img/img3.png",
+  },{
+    "id":4,
+    "title":"京东生鲜",
+    "image":"../static/img/img4.png",
+  },{
+    "id":5,
+    "title":"京东到家",
+    "image":"../static/img/img5.png",
+  },{
+    "id":6,
+    "title":"京东超市",
+    "image":"../static/img/img6.png",
+  },{
+    "id":7,
+    "title":"全球购",
+    "image":"../static/img/img7.png",
+  },{
+    "id":8,
+    "title":"京东服饰",
+    "image":"../static/img/img8.png",
+  },{
+    "id":9,
+    "title":"京东生鲜",
+    "image":"../static/img/img9.png",
+  },{
+    "id":10,
+    "title":"京东到家",
+    "image":"../static/img/img10.png",
+  }
+]
+export default data
